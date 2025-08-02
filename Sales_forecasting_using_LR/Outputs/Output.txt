@@ -1,0 +1,3 @@
+Linear Regression MeanSquareError :  2908.6420053230963
+Linear Regression MeanAbsoluteError :  2447.1298307754864
+Linear Regression R2 :  0.454969324818183
