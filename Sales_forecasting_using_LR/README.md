@@ -111,6 +111,8 @@ python sales_forecast.py
 │   ├── monthly_sales.png
 │   ├── sales_difference.png
 │   └── forecast_plot.png
+├── image/                       # Title image
+│   ├── sales_forecast.png
 ├── requirements.txt             # Dependencies
 └── README.md                    # Documentation
 ```
