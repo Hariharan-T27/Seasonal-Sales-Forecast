@@ -80,7 +80,7 @@ The dataset used: **`seasonal_sales_dataset.csv`**
 ![Monthly Sales]()
 
 ### Sales Difference (Stationary Data)  
-![Sales Difference](Sales_forecasting_using_LR/Outputs/Plots/Monthly Customer Sales Difference.png)
+![Sales Difference](https://github.com/Hariharan-T27/Seasonal-Sales-Forecast/blob/main/Sales_forecasting_using_LR/Outputs/Plots/Monthly%20Customer%20Sales%20Difference.png)
 
 ### Forecast vs Actual Sales  
 ![Forecast Plot](f487dc30-dbd6-44d0-8229-748095b470cb.png)
