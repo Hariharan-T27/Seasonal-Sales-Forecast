@@ -80,7 +80,7 @@ The dataset used: **`seasonal_sales_dataset.csv`**
 ![Monthly Sales]()
 
 ### Sales Difference (Stationary Data)  
-![Sales Difference](cc456714-98c8-476c-91ef-37b404a859af.png)
+![Sales Difference](Sales_forecasting_using_LR/Outputs/Plots/Monthly Customer Sales Difference.png)
 
 ### Forecast vs Actual Sales  
 ![Forecast Plot](f487dc30-dbd6-44d0-8229-748095b470cb.png)
