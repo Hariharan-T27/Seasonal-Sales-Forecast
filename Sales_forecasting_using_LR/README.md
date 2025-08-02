@@ -1,6 +1,6 @@
 # 📊 Sales Forecasting with Linear Regression
 
-![Sales Forecast](f487dc30-dbd6-44d0-8229-748095b470cb.png)
+![Sales Forecast](https://github.com/Hariharan-T27/Seasonal-Sales-Forecast/blob/main/Sales_forecasting_using_LR/image/sales%20forecast.png)
 
 ## 📌 Project Overview
 This project aims to **forecast customer sales using Linear Regression**.  
