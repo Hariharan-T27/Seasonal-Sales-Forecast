@@ -132,7 +132,7 @@ python sales_forecast.py
 
 
 ## Contact
-- thariharan76@gmail.
+- thariharan76@gmail.com
 
 ### Requirements 
 ```bash
